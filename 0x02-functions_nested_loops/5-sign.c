@@ -6,10 +6,10 @@
 *
 *_putchar: prints to standard output
 *
-*Returns: return 1 (if n is greater than 0)
-* OR 0 (if n is 0) OR -1 (if n is less than 0)
+*Returns: return 1 (if n is greater than zero)
+* OR 0 (if n is zero) OR -1 (if n is less than zero)
 *
-Return: Always 0
+Return: always 0.
 */
 int print_sign(int n)
 {
