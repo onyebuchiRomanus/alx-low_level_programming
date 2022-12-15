@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-print_sign - prints the sign of a number.
+*print_sign- prints the sign of a number.
 *
 *@n: number var
 *
@@ -23,7 +23,7 @@ else if (n == 0)
 _putchar('0');
 return (0);
 }
-else if(n < 0)
+else if (n < 0)
 {
 _putchar('-');
 return (-1);
