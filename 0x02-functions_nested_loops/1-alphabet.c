@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * to lower case
- * writing by romanus
- *Return: return 0
+ * print_alphabet- prints the alphabet, in a lowercase,
+ * followed by a new line.
+ *Return: returns 0.
  */
 
 void print_alphabet(void)
