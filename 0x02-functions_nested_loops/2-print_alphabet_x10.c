@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *print_alphabet_x10- prints 10 times the alphabet
- *
- *_putchar: prints to standard output
- */
+*print_alphabet_x10- prints 10 times the alphabet
+*
+*_putchar: prints to standard output
+*/
 void print_alphabet_x10(void)
 {
 char a;
