@@ -9,7 +9,7 @@
 *Returns: return 1 (if n is greater than zero)
 * OR 0 (if n is zero) OR -1 (if n is less than zero)
 *
-Return: always 0.
+*Return: always 0.
 */
 int print_sign(int n)
 {
