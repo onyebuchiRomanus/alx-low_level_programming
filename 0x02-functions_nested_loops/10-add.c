@@ -1,14 +1,14 @@
 /**
-*program: A function that adds two integers and returns the result
-*Autho:Onyebuchi Romanus Ogbonna.
+* Program: A function that adds two integers and returns the result.
+* Auth: ONYEBUCHI ROMANUS.
 */
 #include "main.h"
 /**
-*add- adds integers and returns the result.
-*@a:first number
-*@b:sencond number
-*
-*Return: returns the result of the function add.
+ * add- adds two integers and returns the result.
+ * @a: first number
+ * @b: second number
+ *
+ *Return: returns the result of the function add.
 */
 int add(int a, int b)
 {
