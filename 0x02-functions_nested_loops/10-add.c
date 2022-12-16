@@ -1,9 +1,7 @@
-/**
-* Program: A function that adds two integers and returns the result.
-* Auth: ONYEBUCHI ROMANUS.
-*/
 #include "main.h"
 /**
+ * Program: A function that adds two integers and returns the result.
+ * Auth: Onyebuchi Romanus.
  * add- adds two integers and returns the result.
  * @a: first number
  * @b: second number
