@@ -4,7 +4,7 @@
  *print_to_98- prints all natural numbers from n to 98.
  *followed by new a line
  *@n:number to print
-_putchar: prints to stdout.
+ *_putchar: prints to stdout.
 */
 void print_to_98(int n)
 {
