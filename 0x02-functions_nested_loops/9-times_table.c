@@ -16,7 +16,7 @@ for (mult = 1; mult <= 9; mult++)
 _putchar(',');
 _putchar(' ');
 result = num * mult;
-if (result <=9)
+if (result <= 9)
 _putchar(' ');
 else
 _putchar((result / 10) + '0');
