@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * Program: A function that adds two integers and returns the result.
+ *int add: A function that adds two integers and returns the result.
  * Auth: Onyebuchi Romanus.
  * add- adds two integers and returns the result.
  * @a: first number
