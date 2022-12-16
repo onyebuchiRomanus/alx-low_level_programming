@@ -1,11 +1,11 @@
 #include "main.h"
 /**
- *void jack_bauer- prints every minutes of the day of jack-bauer 
- *stating from 00:00 to 23:59
- *
- *Return: return always 0.
- *_putchar- prints standard output
- */
+*void jack_bauer- prints every minutes of the day of jack-bauer
+*stating from 00:00 to 23:59
+*
+*Return: return always 0.
+*_putchar- prints standard output
+*/
 void jack_bauer(void)
 {
 int hour, minute;
