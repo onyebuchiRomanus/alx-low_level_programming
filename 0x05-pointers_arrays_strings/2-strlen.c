@@ -9,5 +9,5 @@ int _strlen(char *s)
 int count = 0; /* start the counter from 0*/
 for (; *s++;)
 count++;
-return (a);
+return (count);
 }
