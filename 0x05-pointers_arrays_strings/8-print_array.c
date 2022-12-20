@@ -15,5 +15,5 @@ if (i != n - 1)
 printf("%d,", a[i]);
 else
 printf("%d", a[i]);
-print("\n");
+printf("\n");
 }
