@@ -6,12 +6,17 @@
  */
 void rev_string(char *s)
 {
-int a, b;
-b = 0;
-while (s[b] != '\0')
-b++;
-for (a = b -1; a >= 0; a--)
+int a = 0, b, c;
+char d;
 {
-_putchar(s[a]);
+while (s[a] != '\0')
+a++;
+}
+c = a - 1;
+for (b = 0; c >= 0 && b < c; c--, b++)
+{
+d = s[b];
+s[b] = s[c];
+s[c] = d;
 }
 }
