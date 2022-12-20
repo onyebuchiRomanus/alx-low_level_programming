@@ -1,0 +1,1 @@
+working with arrays, pointers, strings and memory layout.
