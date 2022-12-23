@@ -20,4 +20,4 @@ n[i] = s2[j];
 }
 }
 }
-return (n)
+return (n);
